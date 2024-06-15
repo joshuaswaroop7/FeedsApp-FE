@@ -5,7 +5,7 @@ function HeaderComponent() {
     <div>
          <header>
              <nav className='navbar navbar-dark bg-dark'>
-               <h2 className='navbar-brand'>Employee Management System</h2>
+               <h2 className='navbar-brand'>Feeds App</h2>
              </nav>
         </header>
     </div>
